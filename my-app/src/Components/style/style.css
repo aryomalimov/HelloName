@@ -1,0 +1,36 @@
+.form {
+    text-align: center;
+    background-color: #222222;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.form__inner {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 50%;
+}
+
+.form__input_left {
+    float: left;
+}
+
+.form__input_right {
+    float: right;
+}
+
+.form__input {
+    background-color: aqua;
+}
+
+.form__button {
+    background-color: coral;
+    margin-top: 40px;
+
+}
+
+.message {
+    background-color: blue;
+    margin-top: 20px;
+}
